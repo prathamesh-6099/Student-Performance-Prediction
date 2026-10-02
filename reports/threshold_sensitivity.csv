@@ -1,0 +1,6 @@
+Configuration,Fail_Threshold,Pass_Threshold,Actual_Fail_Count,Actual_Borderline_Count,Actual_Pass_Count,Pred_Fail_Count,Fail_Recall,Fail_Precision,Fail_F1,Overall_Accuracy
+Default (50/60),50.0,60.0,0,71,71,0,0.0,0.0,0.0,0.8873
+Sensitivity (45/65),45.0,65.0,0,110,32,0,0.0,0.0,0.0,0.8944
+Sensitivity (55/65),55.0,65.0,47,63,32,46,0.7872,0.8043,0.7957,0.7606
+Suggested Calibrated (54/60),54.0,60.0,44,27,71,41,0.7045,0.7561,0.7294,0.7324
+Suggested Calibrated (55/60),55.0,60.0,47,24,71,46,0.7872,0.8043,0.7957,0.7606

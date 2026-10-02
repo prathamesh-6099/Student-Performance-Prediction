@@ -1,0 +1,31 @@
+# Secrets and credentials
+.env
+.streamlit/secrets.toml
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Scratch / dev only files
+scratch/
+
+# macOS
+.DS_Store
+
+# Large model binaries (regenerate via python src/train.py)
+models/*.joblib
+
+# Editor
+.vscode/
+.idea/

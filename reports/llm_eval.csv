@@ -1,0 +1,3 @@
+System,Sample_Size,Mean_Factor_Recall,Mean_Faithfulness,Hallucination_Rate,Forbidden_Advice_Rate,Causal_Language_Rate,Full_Compliance_Rate
+LLM Layer (explain_in_words),50,0.7843,0.7843,0.0%,0.0%,0.0%,58.0%
+Template Fallback Baseline,50,0.7737,0.7737,0.0%,0.0%,0.0%,54.0%
