@@ -23,8 +23,6 @@ scratch/
 # macOS
 .DS_Store
 
-# Large model binaries (regenerate via python src/train.py)
-models/*.joblib
 
 # Editor
 .vscode/
